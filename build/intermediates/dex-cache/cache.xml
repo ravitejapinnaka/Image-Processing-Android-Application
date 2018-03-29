@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\Code.libraries\opencv\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="75b3f79c6ccef72be9cc958e2dff590cacbcb7db">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\classes-47aa41e803f1d360c4c999f0130ba0bf9f2334da.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\classes-20c3b49f5e32a30cd295d8b7f9b5bb3e0d3a0d70.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\classes-2803352c29aa2830a805a2126953234f3aff0b37.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\classes-f55917edd73269376fa282a29a4a6cf9ae8cedc2.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1-4d83b335008dc5e6e042838e48c9676a5eaf72ae.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\classes-548b7bb53ac3a872f2f88c6a2f4d67b1f9f4139b.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1-048dc083a5af79fac178018973de6206cdb5896f.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\classes-4a19417200554c9387b40cf78609d53a26d2d31b.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1-b0cfa1853dca848cc089360c0c99e638134c82dc.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\classes-db644fa34bdb4f5e4e826d4b69a395f8189df3bf.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\classes-9edd2adc71c39e05a42df04f8b911528c2e0ac11.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1-51ab30143fbff50b8779a9626e6d377c1c44e7c7.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\classes-732db8169333b4d4530eb9bf01d7eb4026066426.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1-3aca02b273d8ae137905c7b6e7f044d71a169d7a.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1-db5f163f64ead719dba8cc6c0482b7b4aa9a030a.jar" />
+    </item>
+    <item
+        jar="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\Asu Spring 2017\Image Processing\Project2\facedetection-manjit\Code\app\build\intermediates\pre-dexed\debug\classes-40c02f1351bb82369d2765a73cf7ab64a5c25495.jar" />
+    </item>
+
+</items>

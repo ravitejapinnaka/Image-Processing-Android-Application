@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <org.opencv.android.JavaCameraView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/opencv_tutorial_activity_surface_view"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="X: 0, Y:0"
+        android:textColor="#B0171F"
+        android:id="@+id/touch_coordinates"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/touch_coordinates"
+        android:text="Color: "
+        android:textColor="#B0171F"
+        android:id="@+id/touch_color"/>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="17dp"
+        android:text="Canny"
+        android:onClick="applyCanny"/>
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="zoom in"
+        android:onClick="applyZoomIn"/>
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="11dp"
+        android:text="hist"
+        android:onClick="applyHist"/>
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:text="sobel"
+        android:layout_above="@+id/button4"
+        android:layout_alignStart="@+id/button4"
+        android:onClick="applySobel"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="censor"
+        android:layout_alignBaseline="@+id/button7"
+        android:layout_alignBottom="@+id/button7"
+        android:layout_alignStart="@+id/button6"
+        android:onClick="applyCensor"/>
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:text="hue"
+        android:onClick="drawHue"/>
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="normal"
+        android:onClick="applyNormal"
+        android:layout_below="@+id/button9"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="11dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/button7"
+        android:layout_alignEnd="@+id/button5"
+        android:text="sepia"
+        android:onClick="applySepia"
+        />
+
+
+</RelativeLayout>

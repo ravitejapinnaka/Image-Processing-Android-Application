@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <org.opencv.android.JavaCameraView
+        android:id="@+id/opencv_tutorial_activity_surface_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="X: 0, Y:0"
+        android:textColor="#B0171F"
+        android:id="@+id/touch_coordinates"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/touch_coordinates"
+        android:text="Color: "
+        android:textColor="#B0171F"
+        android:id="@+id/touch_color"/>
+    <Button
+        android:id="@+id/Ravi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:text="Ravi"
+        android:layout_marginTop="19dp"
+        android:layout_below="@+id/touch_color"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/Keerthy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/Ravi"
+        android:textSize="11dp"
+        android:text="Keerthy" />
+</RelativeLayout>
